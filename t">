@@ -4,9 +4,9 @@
 <meta charset="utf-8">
 <title>Cross site scripting image attempt</title>
 <meta property="og:title" content="test<>t<<svg onload=alert(1)>">
-<meta property="og:type" content="test<>t<<svg onload=alert(1)>">
-<meta property="og:url" content="javascript:alert('https://')">
-<meta property="og:image" content="javascript:alert('https://')">
+<meta property="og:type" content="video.movie">
+<meta property="og:url" content="https://www.youtube.com/watch?v=Zs4brsdo_4I">
+<meta property="og:image" content="https://www.youtube.com/v/Zs4brsdo_4I">
 <meta property="og:description" content="est<>t<<svg onload=alert(1)>">
 <meta property="og:site_name" content="est<>t<<svg onload=alert(1)>">
 </head>
