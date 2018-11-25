@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#">
+<meta charset="utf-8">
+<title>Cross site scripting image attempt</title>
+<meta property="og:title" content="attempt to xss<svg>">
+<meta property="og:type" content="image">
+<meta property="og:url" content='" onerror=alert()'>
+<meta property="og:image" content="ff">
+<meta property="og:description" content="http://facebook.com">
+<meta property="og:site_name" content="amF2YXNjcmlwdDphbGVydCgp">
+</head>
+<body>
+<p>An attempt to introduce JavaScript in an og:image, which might be displayed as an &lt;img src&gt; on a consuming website.</p>
+<p>Images are defined as http and https protocols only; javascript:* should not be an accepted value.</p>
+</body>
+</html>
