@@ -3,7 +3,7 @@
 
 <channel>
   <title><![CDATA[<]]>script<![CDATA[>]]>alert('xss')<![CDATA[<]]>/script<![CDATA[>]]></title>
-  <link>https://127.0.0.1</link>
+  <link>https://www.nasa.gov/rss/dyn/educationnews.rss</link>
   <description></description>
   <item>
     <title>RSS Tutorial</title>
