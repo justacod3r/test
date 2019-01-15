@@ -3,7 +3,7 @@
  
   <channel>
 
-    <title>podCast411</title>
+    <title><![CDATA[<]]>script<![CDATA[>]]>alert('xss')<![CDATA[<]]>/script<![CDATA[>]]></title>
     <description>The 411 on podCasts, podCasters and podcasting</description>
     <link>http://www.podcast411.com</link>
     <language>en-us</language>
@@ -11,7 +11,7 @@
     <lastBuildDate>Sat, 25 Mar 2006 11:30:00 -0500</lastBuildDate>
     <pubDate>Sat, 25 Mar 2006 11:30:00 -0500</pubDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    <webMaster>rob@podcast411.com</webMaster>
+    <webMaster>testjusttest3@yandex.com</webMaster>
 
     <itunes:author>rob @ podcast411</itunes:author>
     <itunes:subtitle>podCast411 is a show about interviewing other Podcasters, similar to Inside the Actors Studio except for Podcasting </itunes:subtitle>
@@ -24,7 +24,7 @@
 
 <itunes:explicit>No</itunes:explicit>
 
-<itunes:image href="http://www.podcast411.com/img/411_itunes.jpg"/>
+<itunes:image href="http://127.0.0.1/favicon.ico"/>
    
 <itunes:category text="Technology">
      <itunes:category text="Podcasting"/>
