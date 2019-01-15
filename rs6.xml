@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-
-
   <channel>
-
     <title>&xml;</title>
     <description>The 411 on podCasts, podCasters and podcasting</description>
     <link>http://www.podcast411.com</link>
@@ -26,7 +22,7 @@
 
 <itunes:explicit>No</itunes:explicit>
 
-<itunes:image href="http://127.0.0.1/favicon.ico"/>
+<itunes:image href='" onhover=alert()'/>
    
 <itunes:category text="Technology">
      <itunes:category text="Podcasting"/>
