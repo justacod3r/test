@@ -22,7 +22,7 @@
 
 <itunes:explicit>No</itunes:explicit>
 
-<itunes:image href='http://"onhover=alert("http:127.0.0.1/")'/>
+<itunes:image href="http://onhover=alert()"/>
    
 <itunes:category text="Technology">
      <itunes:category text="Podcasting"/>
