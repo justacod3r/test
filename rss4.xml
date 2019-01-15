@@ -2,12 +2,12 @@
 <rss version="2.0">
 
 <channel>
-  <title><![CDATA[<]]>script<![CDATA[>]]>alert('xss')<![CDATA[<]]>/script<![CDATA[>]]></title>
+  <title>test</title>
   <link>https://www.nasa.gov/rss/dyn/educationnews.rss</link>
   <description></description>
   <item>
-    <title>RSS Tutorial</title>
-    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
+     <title>test</title>
+    <link>http://www.nasa.gov/press-release/nasa-national-science-foundation-announce-support-for-white-house-stem-engagement-plan</link>
     <description>New RSS tutorial on W3Schools</description>
   </item>
   <item>
