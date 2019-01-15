@@ -3,7 +3,7 @@
   <channel>
     <title>rss title</title>
     <description>rss desc</description>
-    <link>http://aliveli.io/</link>
+    <link>http://useradmin.spotify.com/</link>
     <language>en-us</language>
     <copyright>Copyright 2006</copyright>
     <lastBuildDate>Sat, 25 Mar 2006 11:30:00 -0500</lastBuildDate>
@@ -26,10 +26,10 @@
 
 <item>
 <title>item title</title>
-<link>http://aliveli.io/</link>
-<guid>http://media.libsyn.com/media/podcast411/411_060324.mp3</guid>
+<link>http://useradmin.spotify.com/</link>
+<guid>http://useradmin.spotify.com//guid>
 <description> item desc </description>
-<enclosure url="http://media.libsyn.com/media/podcast411/411_060324.mp3" length="11779397" type="audio/mpeg"/>
+<enclosure url="http://useradmin.spotify.com/" length="11779397" type="audio/mpeg"/>
 <category>Podcasts</category>
 <pubDate>Sat, 25 Mar 2006 11:30:00 -0500</pubDate>
 
