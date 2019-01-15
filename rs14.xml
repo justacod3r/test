@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>rss title</title>
+    <description>rss desc</description>
+    <link>http://aliveli.io/</link>
+    <language>en-us</language>
+    <copyright>Copyright 2006</copyright>
+    <lastBuildDate>Sat, 25 Mar 2006 11:30:00 -0500</lastBuildDate>
+    <pubDate>Sat, 25 Mar 2006 11:30:00 -0500</pubDate>
+
+    <itunes:author>testjusttest3 @ yandex</itunes:author>
+    <itunes:subtitle>subttile </itunes:subtitle>
+    <itunes:summary>rss summary</itunes:summary>
+
+    <itunes:owner>
+           <itunes:name>test</itunes:name>
+           <itunes:email>testjusttest3@yandex.com</itunes:email>
+    </itunes:owner>
+
+<itunes:image href='http://onhover=alert()/'>
+   
+<itunes:category text="Technology">
+     <itunes:category text="Podcasting"/>
+</itunes:category>
+
+<item>
+<title>item title</title>
+<link>http://aliveli.io/</link>
+<guid>http://media.libsyn.com/media/podcast411/411_060324.mp3</guid>
+<description> item desc </description>
+<enclosure url="http://media.libsyn.com/media/podcast411/411_060324.mp3" length="11779397" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Sat, 25 Mar 2006 11:30:00 -0500</pubDate>
+
+<itunes:author>testjusttest3 @ yandex</itunes:author>
+
+<itunes:explicit>No</itunes:explicit>
+<itunes:subtitle>ssssub </itunes:subtitle>
+<itunes:summary> summmary </itunes:summary>
+<itunes:duration>00:24:30</itunes:duration>
+<itunes:keywords>podCast411, podcast, podcasting, podcaster, Interviews, Bruce Murray, Zedcast</itunes:keywords>
+
+</item>
+
+</channel>
+
+</rss>
