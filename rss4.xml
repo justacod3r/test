@@ -1,20 +1,26 @@
- <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
-
-<channel>
-  <title>test</title>
-  <link>https://www.nasa.gov/rss/dyn/educationnews.rss</link>
-  <description></description>
-  <item>
-     <title>test</title>
-    <link>http://www.nasa.gov/press-release/nasa-national-science-foundation-announce-support-for-white-house-stem-engagement-plan</link>
-    <description>New RSS tutorial on W3Schools</description>
-  </item>
-  <item>
-    <title>XML Tutorial</title>
-    <link>https://www.w3schools.com/xml</link>
-    <description>New XML tutorial on W3Schools</description>
-  </item>
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>Education News</title>
+ <description>A RSS feed containing the latest education related news from NASA.</description>
+ <link>http://www.nasa.gov/</link>
+ <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/educationnews.rss" />
+ <language>en-us</language>
+ <managingEditor>sandra.b.may@nasa.gov</managingEditor>
+ <webMaster>brian.dunbar@nasa.gov</webMaster>
+ <item> <title>NASA, National Science Foundation Announce Support for White House STEM Engagement Plan</title>
+ <link>http://www.nasa.gov/press-release/nasa-national-science-foundation-announce-support-for-white-house-stem-engagement-plan</link>
+ <description>NASA and the National Science Foundation (NSF), in partnership with other federal agencies, have committed to a White House-led effort to strengthen education in science, technology, engineering and math (STEM).</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/18-112.jpg?itok=OY6C8fA8" length="5361139" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-national-science-foundation-announce-support-for-white-house-stem-engagement-plan</guid>
+ <pubDate>Tue, 04 Dec 2018 15:17 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/educationnews.rss">Education News</source>
+</item>
+ <item> <title>Radio JOVE From NASA: Tuning In to Your Local Celestial Radio Show</title>
+  <author>test</author>
+ <link>http://www.nasa.gov/feature/goddard/2018/tuning-in-to-your-local-celestial-radio-show</link>
+ <description>What does Jupiter sound like? If you had to take a guess, would you imagine the sharp staccato of popcorn popping? The slow static of waves reaching the shore? The universe is full of radio emissions, and all you need to hear them for yourself is a box the size of a DVD player.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/jupiter_magnetophere_r01_pdaurora2.jpg?itok=AKfwjmL_" length="1526502" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/feature/goddard/2018/tuning-in-to-your-local-celestial-radio-show</guid>
+ <pubDate>Tue, 04 Dec 2018 14:00 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/educationnews.rss">Education News</source>
+</item>
 </channel>
-
-</rss> 
+</rss>
