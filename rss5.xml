@@ -5,6 +5,7 @@
  <language>en-us</language>
  <managingEditor>sandra.b.may@nasa.gov</managingEditor>
  <webMaster>brian.dunbar@nasa.gov</webMaster>
+ <author>test</author>
  <item> <title>NASA, National Science Foundation Announce Support for White House STEM Engagement Plan</title>
  <link>http://www.nasa.gov/press-release/nasa-national-science-foundation-announce-support-for-white-house-stem-engagement-plan</link>
  <description>NASA and the National Science Foundation (NSF), in partnership with other federal agencies, have committed to a White House-led effort to strengthen education in science, technology, engineering and math (STEM).</description>
@@ -14,7 +15,7 @@
  <source url="http://www.nasa.gov/rss/dyn/educationnews.rss">Education News</source>
 </item>
  <item> <title>Radio JOVE From NASA: Tuning In to Your Local Celestial Radio Show</title>
-  <author>test</author>
+  <
  <link>http://www.nasa.gov/feature/goddard/2018/tuning-in-to-your-local-celestial-radio-show</link>
  <description>What does Jupiter sound like? If you had to take a guess, would you imagine the sharp staccato of popcorn popping? The slow static of waves reaching the shore? The universe is full of radio emissions, and all you need to hear them for yourself is a box the size of a DVD player.</description>
  <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/jupiter_magnetophere_r01_pdaurora2.jpg?itok=AKfwjmL_" length="1526502" type="image/jpeg" />
