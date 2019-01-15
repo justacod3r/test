@@ -2,9 +2,9 @@
 <rss version="2.0">
 
 <channel>
-  <title>justTest</title>
+  <title><![CDATA[<]]>script<![CDATA[>]]>alert('xss')<![CDATA[<]]>/script<![CDATA[>]]></title>
   <link>https://127.0.0.1</link>
-  <description>"><svg/onload=alert()></description>
+  <description></description>
   <item>
     <title>RSS Tutorial</title>
     <link>https://www.w3schools.com/xml/xml_rss.asp</link>
