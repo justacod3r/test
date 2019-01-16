@@ -3,16 +3,14 @@
  
   <channel>
 
-    <title>podCast411</title>
-    <description>The 411 on podCasts, podCasters and podcasting</description>
+    <title>customtest</title>
+    <description>customtest desc</description>
     <link>http://www.podcast411.com</link>
     <language>en-us</language>
     <copyright>Copyright 2007</copyright>
     <lastBuildDate>Sat, 25 Mar 2006 11:30:00 -0500</lastBuildDate>
     <pubDate>Sat, 25 Mar 2006 11:30:00 -0500</pubDate>
-    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    <webMaster>rob@podcast411.com</webMaster>
-    
+   <author>testjusttest3@yandex.com</author>
     <item>
 <title>411 Item 138 ZedCast with Bruce Murray - Voicemail line 206-666-4357 </title>
 <link>http://podcast411.com/forums/viewtopic.php?t=451</link>
